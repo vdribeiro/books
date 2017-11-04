@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/wbbooka/!svn/ver/156/trunk/g1/plugins/novaedicao
+END
+action.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wbbooka/!svn/ver/156/trunk/g1/plugins/novaedicao/action.php
+END
+syntax.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wbbooka/!svn/ver/156/trunk/g1/plugins/novaedicao/syntax.php
+END
+novaedicao.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wbbooka/!svn/ver/156/trunk/g1/plugins/novaedicao/novaedicao.php
+END
+novaedicaoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wbbooka/!svn/ver/156/trunk/g1/plugins/novaedicao/novaedicaoTest.php
+END
